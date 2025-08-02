@@ -1,0 +1,8 @@
+﻿opencv-python>=4.10.0.84
+streamlit>=1.37.1
+pillow>=10.4.0
+matplotlib>=3.9.2
+numpy>=1.26.4
+pandas>=2.2.2
+transformers>=4.47.0
+torch>=2.5.1
